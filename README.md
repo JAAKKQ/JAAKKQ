@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JAAKKQ
-- 👀 I’m interested in E2EE.
-- 🌱 I’m currently learning E2EE.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning game development.
 - 📫 You can reach me on Discord Jaakko#0001
 
 <!---
