@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JAAKKQ?tab=repositories](https://github.com/JAAKKQ?tab=repositories)
 
-- 📫 How to reach me **from the link below**
+- 📫 You can reach me **from the link below**
 
 - ⚡ Fun fact **The White House in Washington, DC, has 132 rooms, including 35 bathrooms.**
 
