@@ -5,7 +5,7 @@
 
 - All of my projects are available at [https://github.com/JAAKKQ?tab=repositories](https://github.com/JAAKKQ?tab=repositories)
 
-- How to reach me at **jaakko@r3ne.net**
+- How to reach me **jaakko@r3ne.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
