@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 Mail **karkkainen@r3ne.net**
+- 📫 Mail **mail@r3ne.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
