@@ -1,8 +1,6 @@
 <h1 align="center">R3ne</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaakkq&label=Profile%20views&color=0e75b6&style=flat" alt="jaakkq" /> </p>
 
-- 🌱 I’m currently learning **Python**
-
 - 📫 Mail **mail@r3ne.net**
 
 <h3 align="left">Connect with me:</h3>
