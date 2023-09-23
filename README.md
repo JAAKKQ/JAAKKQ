@@ -1,7 +1,7 @@
 <h1 align="center">Rene</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaakkq&label=Profile%20views&color=0e75b6&style=flat" alt="jaakkq" /> </p>
 
-- 📫 Mail **mail@r3ne.net**
+- 📫 Mail **rene@karkkainen.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
